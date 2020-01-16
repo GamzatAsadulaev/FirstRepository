@@ -7,4 +7,5 @@ Add new line but dont add new commit
 Add new file but dont change name commit
 Гуд бай!
 Use SSH
+line from user2
 Line from user1
