@@ -10,3 +10,4 @@ Use SSH
 line from user2
 Line from user1
 some change
+Line from user1 - lesson about rebase
